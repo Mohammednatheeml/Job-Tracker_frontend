@@ -16,7 +16,7 @@ const DEFAULT_PROFILE = {
   location: "Chennai",
   experience: "Fresher",
   workMode: "Any",
-  skills: "Java, Spring Boot, SQL, JavaScript, React",
+  skills: "Java, Spring Boot, SQL, JavaScript, React, Apis",
 };
 
 const SAVED_JOBS_RESET_KEY = "cc.saved.reset-v1";
